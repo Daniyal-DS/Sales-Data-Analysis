@@ -85,6 +85,9 @@ A box plot was used to detect extreme profit or loss values that may indicate an
 Feel free to fork this repository, submit pull requests, or suggest improvements. Contributions are always welcome! 🚀
 
 ---
+## Dataset Reference
+The dataset used in this project is available on Kaggle:
+[Superstore Sales Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ## 📝 License
 
